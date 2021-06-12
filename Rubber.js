@@ -6,9 +6,9 @@ class Rubber{
 			'density':1,
 			'friction':5
 		}
-	}
-}
-	{
+	
+
+	
 	// assign options to the rubber ball
 		this.x=x;
 		this.y=y;
@@ -30,4 +30,4 @@ class Rubber{
             ellipse(0,0,this.r,this.r);
 			pop()
 	}
-
+}

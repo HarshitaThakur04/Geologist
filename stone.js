@@ -1,5 +1,5 @@
 class Stone {
-    constructor(x, y) {
+    constructor(x, y,width,height) {
       var options = {
         'density':12,
         'friction': 0.9,
